@@ -1,0 +1,15 @@
+p {
+    color: green;
+    background-color: black;
+    font-weight: bolder;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.my-comp-paragraph {
+    background-color: blueviolet;
+    color: white;
+    font-weight: bolder;
+    padding: 6px;
+    font-size: 45px;
+}
